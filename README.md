@@ -1,6 +1,9 @@
 # 머신러닝 기반 League of Legends 승리 요인 예측
 -2025/03/15 기존 계정 오류로 인해 새로운 아이디 Kimjaebeom00으로 활동 기존 Kinjaebeom으로 활동하였음<br>
+-증빙사진<br>
 (https://github.com/user-attachments/assets/b7cc5946-d9dc-4225-ab4e-2ebd27d209f7)
+![LOL-Machinelearning_Contributors](https://github.com/user-attachments/assets/037e030e-edbf-4c47-afe2-98569242effa)
+![LOL-Machinelearning_Contributors2](https://github.com/user-attachments/assets/e44e3c4a-ed5b-4b91-a537-467c055db992)
 <img width="1201" alt="image" src="https://github.com/user-attachments/assets/22c95850-b5a8-4e48-ab38-a223f74e649b" />
 <img width="1205" alt="image" src="https://github.com/user-attachments/assets/ea14671b-9b03-4480-a024-400f780a8180" />
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/9d6f22b4-870f-404d-83ff-01ff99da814e" />
