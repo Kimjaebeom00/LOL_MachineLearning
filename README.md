@@ -18,12 +18,8 @@
 <img width="1199" alt="image" src="https://github.com/user-attachments/assets/2476fcb3-9ffe-4cae-80f5-3b9bc255034f" />
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/319bc7b4-a5aa-479e-b5da-4ae8b1f38713" />
 <img width="1203" alt="image" src="https://github.com/user-attachments/assets/47b8d5ef-626c-421a-88c1-782cd92fbd31" />
-
-
-
-
-
-
+-더 나아가 논문 작업까지 진행하였습니다.
+![논문작업1](https://github.com/user-attachments/assets/dbe7243d-2141-4c03-a120-145d443ce8a2)
 
 
 
